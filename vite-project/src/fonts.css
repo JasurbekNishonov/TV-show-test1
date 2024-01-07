@@ -1,0 +1,20 @@
+@font-face{
+    font-family: "Marcellus";
+    src: url("./assets/fonts/Marcellus-Regular.ttf");
+}
+@font-face{
+    font-family: "MulishBold";
+    src: url("./assets/fonts/Mulish-Bold.ttf");
+}
+@font-face{
+    font-family: "MulishExtraBold";
+    src: url("./assets/fonts/Mulish-ExtraBold.ttf");
+}
+@font-face{
+    font-family: "MulishRegular";
+    src: url("./assets/fonts/Mulish-Regular.ttf");
+}
+@font-face{
+    font-family: "Poppins";
+    src: url("./assets/fonts/Poppins-Regular.ttf");
+}
